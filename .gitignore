@@ -1,0 +1,28 @@
+# Build artifacts
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/Makefile
+/*.cmake
+/*.exe
+/*.out
+/*.o
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*.vscode/
+*.idea/
+*.vscodium/
+
+# Logs
+*.log
+
+/assets/
+
+# Notes folder
+/Notes/
